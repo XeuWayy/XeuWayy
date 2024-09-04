@@ -1,4 +1,2 @@
 ## Hi there 
-<a href="https://profile.intra.42.fr/users/ccharton">
-        <img align="center" src="https://badge.mediaplus.ma/binary/ccharton?1337Badge=off&42Network=off&UM6P=off" alt="Cursus de gchatain" />
-    </a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ccharton?1337Badge=off&UM6P=off" alt="ccharton's 42 stats" /></a>
