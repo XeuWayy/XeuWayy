@@ -20,8 +20,9 @@ I am based in Paris but open to remote work worldwide.
 
 ### 🚧 Currently Working On
 
-I am actively learning **Java Spring / SpringBoot** by completely rewriting the backend of my `ft_transcendence` project. 
-Since the original was built in Python (which isn't my strong suit), I'm using this as the perfect excuse to dive deep into Java, build a production-ready server, and solidify my skills as a Fullstack Developer.
+I am currently on a medical break. 
+While away from full-time coding, I am taking this opportunity to dive deep into low-level mechanics by learning **x86_64 assembly** the old-school way (reading technical documentation and books, without AI assistance). 
+Once I am cleared to return, my goal is to resume development and rewrite the `ft_transcendence` backend to strict production standards.
 
 ### 🚀 Featured Projects
 
