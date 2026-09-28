@@ -1,6 +1,6 @@
 ## Hi, I'm Corentin. 
 
-I'm a 25-year-old student at [42 Paris](https://42.fr/en/homepage/) building 3D web experiences and multiplayer game clients. I'm currently looking for a **6-month internship (Creative Dev / Fullstack) starting April 2026**. 
+I'm a 25-year-old student at [42 Paris](https://42.fr/en/homepage/) building 3D web experiences and multiplayer game clients. I'm currently looking for a **6-month internship (Creative Dev / Fullstack) starting January 2027**. 
 I am based in Paris but open to remote work worldwide.
 
 ### 🛠 The Stack
